@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373469706353",
+    "project_id": "movie-ccf6d",
+    "storage_bucket": "movie-ccf6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373469706353:android:5c396a026cae2ab99ac3d0",
+        "android_client_info": {
+          "package_name": "movies.example.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhyO2BN6X2dI9xO23VZsIlPYzKPibZ0B0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
